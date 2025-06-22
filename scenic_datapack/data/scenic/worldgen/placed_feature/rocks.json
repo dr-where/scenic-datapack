@@ -1,0 +1,9 @@
+{
+  "feature": "scenic:rocks",
+  "placement": [
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "features": [
+      {
+        "chance": 0.3,
+        "feature": "scenic:rock1"
+      },
+      {
+        "chance": 0.3,
+        "feature": "scenic:rock2"
+      },
+      {
+        "chance": 0.3,
+        "feature": "scenic:rock3"
+      },
+      {
+        "chance": 0.1,
+        "feature": "scenic:rock4"
+      }
+    ],
+    "default": "scenic:rock1"
+  }
+}
