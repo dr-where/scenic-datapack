@@ -1,15 +1,15 @@
 {
   "structures": [
     {
-      "structure": "scenic:rocks",
+      "structure": "scenic:rocks_struct",
       "weight": 1
     }
   ],
   "placement": {
     "type": "minecraft:random_spread",
     "spacing": 1,
-    "separation": 1,
-    "spread_type": "triangular",
+    "separation": 0,
+    "spread_type": "linear",
     "salt": 875,
     "frequency_reduction_method": "default"
   }

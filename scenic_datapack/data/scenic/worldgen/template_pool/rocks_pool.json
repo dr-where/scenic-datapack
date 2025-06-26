@@ -1,5 +1,5 @@
 {
-  "name": "scenic:rocks",
+  "name": "scenic:rocks_pool",
   "fallback": "empty",
   "elements": [
     {
@@ -8,12 +8,7 @@
         "element_type": "minecraft:single_pool_element",
         "projection": "terrain_matching",
         "location": "scenic:rock_med1",
-        "processors": [
-          {
-            "processor_type": "minecraft:block_age",
-            "mossiness": 1
-          }
-        ],
+        "processors": "empty",
         "override_liquid_settings": "apply_waterlogging"
       }
     },
@@ -23,12 +18,7 @@
         "element_type": "minecraft:single_pool_element",
         "projection": "terrain_matching",
         "location": "scenic:rock_med2",
-        "processors": [
-          {
-            "processor_type": "minecraft:block_age",
-            "mossiness": 1
-          }
-        ],
+        "processors": "empty",
         "override_liquid_settings": "apply_waterlogging"
       }
     },
@@ -38,12 +28,7 @@
         "element_type": "minecraft:single_pool_element",
         "projection": "terrain_matching",
         "location": "scenic:rock_med3",
-        "processors": [
-          {
-            "processor_type": "minecraft:block_age",
-            "mossiness": 1
-          }
-        ],
+        "processors": "empty",
         "override_liquid_settings": "apply_waterlogging"
       }
     },
@@ -53,12 +38,7 @@
         "element_type": "minecraft:single_pool_element",
         "projection": "terrain_matching",
         "location": "scenic:rock_small1",
-        "processors": [
-          {
-            "processor_type": "minecraft:block_age",
-            "mossiness": 1
-          }
-        ],
+        "processors": "empty",
         "override_liquid_settings": "apply_waterlogging"
       }
     },
@@ -68,12 +48,7 @@
         "element_type": "minecraft:single_pool_element",
         "projection": "terrain_matching",
         "location": "scenic:boulder_mossy1",
-        "processors": [
-          {
-            "processor_type": "minecraft:block_age",
-            "mossiness": 1
-          }
-        ],
+        "processors": "empty",
         "override_liquid_settings": "apply_waterlogging"
       }
     },
@@ -83,12 +58,7 @@
         "element_type": "minecraft:single_pool_element",
         "projection": "terrain_matching",
         "location": "scenic:boulder_mossy2",
-        "processors": [
-          {
-            "processor_type": "minecraft:block_age",
-            "mossiness": 1
-          }
-        ],
+        "processors": "empty",
         "override_liquid_settings": "apply_waterlogging"
       }
     }
