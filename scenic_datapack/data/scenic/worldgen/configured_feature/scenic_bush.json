@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:simple_block",
+  "config": {
+    "to_place": {
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:azalea_leaves"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:flowering_azalea_leaves"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:big_dripleaf"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:small_dripleaf"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:lilac"
+          }
+        }
+      ]
+    }
+  }
+}

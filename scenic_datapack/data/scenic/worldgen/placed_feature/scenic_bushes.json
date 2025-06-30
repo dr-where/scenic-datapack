@@ -1,0 +1,16 @@
+{
+  "feature": "scenic:scenic_bushes",
+  "placement": [
+    {
+      "type": "count",
+      "count": 1
+    },
+    {
+      "type": "in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE"
+    }
+  ]
+}

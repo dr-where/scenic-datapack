@@ -1,0 +1,14 @@
+{
+    "values": [
+        "#minecraft:air",
+        "#minecraft:triggers_ambient_desert_dry_vegetation_block_sounds",
+        "#minecraft:leaves",
+        "minecraft:leaf_litter",
+        "#minecraft:logs",
+        "#minecraft:flowers",
+        "minecraft:tall_grass",
+        "minecraft:short_grass",
+        "short_dry_grass",
+        "tall_dry_grass"
+    ]
+}
